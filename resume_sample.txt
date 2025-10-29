@@ -1,0 +1,49 @@
+John Doe  
+Email: john.doe@email.com  
+Phone: +91-9876543210  
+LinkedIn: linkedin.com/in/johndoe  
+GitHub: github.com/johndoe  
+
+---
+
+### Objective
+Motivated and detail-oriented Data Analyst with experience in data wrangling, visualization, and deriving actionable insights using Python and SQL.
+
+---
+
+### Skills
+- Programming: Python, SQL, R  
+- Tools: Excel, Power BI, Tableau, Jupyter  
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn  
+
+---
+
+### Experience
+**Data Analyst Intern – ABC Solutions**  
+*Jan 2024 – Jun 2024*  
+- Cleaned and analyzed customer churn data using pandas and seaborn  
+- Built dashboards in Tableau to visualize sales trends  
+- Automated reporting using Python scripts
+
+---
+
+### Projects
+**Sales Forecasting using Machine Learning**  
+- Predicted future sales using linear regression and time-series analysis  
+- Achieved 92% accuracy
+
+**Customer Segmentation using KMeans**  
+- Clustered customers into groups using RFM analysis and KMeans  
+
+---
+
+### Education
+B.Sc. in Computer Science – XYZ University  
+*2020 – 2023*  
+
+---
+
+### Certifications
+- Google Data Analytics Certificate  
+- SQL for Data Science – Coursera  
+
